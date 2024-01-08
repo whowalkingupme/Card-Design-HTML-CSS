@@ -1,6 +1,6 @@
 # How to Create Responsive Cards in HTML and CSS
 
-
+![Create-Beautiful-Responsive-Cards-in-HTML-and-CSS](https://github.com/whowalkingupme/Card-Design-HTML-CSS/assets/46256884/cb0aa3bd-d43b-4d00-9275-a248df66307a)
 
 You may have seen cards on different websites. Cards are important web elements used to showcase short articles, product descriptions, or user profiles. If you’re a beginner web developer, creating responsive cards can be a valuable project to understand CSS fundamental concepts such as positing, flexbox, and grid layouts.
 
